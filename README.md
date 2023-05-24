@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @snixie
+- 👋 Hi, I’m Rabgay
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on open source project
 
 <!---
