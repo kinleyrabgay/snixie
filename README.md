@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rabgay
+- 👋 Hi, I’m Kinley
 - 👀 I’m interested in ML, ROS & FullStack Development
 - 🌱 I’m currently learning Angular, flutter & ruby
 <!---
